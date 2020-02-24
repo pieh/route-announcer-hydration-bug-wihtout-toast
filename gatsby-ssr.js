@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+import Wrapper from "./src/components/wrapper"
+
+export const wrapRootElement = Wrapper
